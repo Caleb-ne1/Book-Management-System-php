@@ -26,7 +26,7 @@ This project is a simple PHP application that allows users to manage a collectio
 
 ```bash
 git clone https://github.com/your-username/library-book-management.git
-cd library-book-management
+cd Book-Management-System-php
 ```
 
 2. Set up the database:
